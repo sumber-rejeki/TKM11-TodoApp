@@ -17,7 +17,7 @@ kelompok Anda akan bekerja sama untuk membuat proyek Android sederhana dan memah
 
 ### Output
 <p float="left">
-  <img src="https://github.com/sumber-rejeki/TKM09-Aplikasi-Kalkulator/blob/d04609a12b24f42a1c8faafebac8170085214d50/k_night.jpg?raw=true" alt="Night" width="400"/>
+  <img src="https://github.com/sumber-rejeki/TKM11-TodoApp/blob/3c31c5eeac8357f89d7d28a1a6ed94a950139444/ss.jpg?raw=true" alt="Night" width="400"/>
 </p>
 
 ### Authors
